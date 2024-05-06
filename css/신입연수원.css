@@ -1,0 +1,12 @@
+.bell{
+    display: flex;
+}
+
+.bell__icons{
+    width: 500px;
+}
+
+.chat__icons{
+    width: 200px;
+    position: absolute;
+    top: 10px; left: 250px;
